@@ -125,7 +125,6 @@ body {
  margin: 20px;
  color: rgba(34, 6, 17, 0.89);
  font-size: 25px;
- 
 }
 
 /* ABOUT CSS */
@@ -227,8 +226,8 @@ body {
 
   text-align: center;
   padding:20px;
-  background-color:rgba(34, 6, 17, 0.89);
-  color: #f2f2f2;
+  background-color:rgba(253, 251, 252, 0.89);
+  color: #050000;
   
 
 }
@@ -239,6 +238,11 @@ body {
   font-size: large;
   color:rgba(44, 44, 44, 0.89);
 
+}
+
+.Img {
+  text-align: center;
+  margin:45px;
 }
 
 /* BLOG2 CSS */
