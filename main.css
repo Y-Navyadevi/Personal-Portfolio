@@ -125,6 +125,7 @@ body {
  margin: 20px;
  color: rgba(34, 6, 17, 0.89);
  font-size: 25px;
+ 
 }
 
 /* ABOUT CSS */
@@ -264,16 +265,15 @@ body {
 }
 
 
-/* EDUCATION CSS */
+/* Projects CSS */
 
 .edutable table {
-  width:730px;
-  height:270px;
+  width:80%;
+  height:50%;
   font-family: 'Arial';
   font-size: large;
   margin: 45px auto;
   border-collapse: collapse;
-  border: 1px solid #eee;
   border-bottom: 2px solid #333;
   box-shadow: 0px 0px 20px rgba(0,0,0,0.10),
      0px 10px 20px rgba(0,0,0,0.05),
@@ -294,6 +294,12 @@ body {
 }
 
 .edutable td {
-  padding: 20px;
+  padding: 25px;
 }
 
+/*Contact Me page*/
+.contact{
+  width:730px;
+  height:200px;
+margin: 45px auto;
+}
