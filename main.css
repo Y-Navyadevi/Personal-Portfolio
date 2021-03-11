@@ -122,9 +122,12 @@ body {
 /* SKIILS CSS */
 
 .skill{
- margin: 20px;
+  margin:43px 0px -30px 600px;
  color: rgba(34, 6, 17, 0.89);
  font-size: 25px;
+ transition: 0.3s;
+ width: 500px;
+ height: 700px;
 }
 
 /* ABOUT CSS */
@@ -155,9 +158,10 @@ body {
   width: 50%;
   float: right;
   font-size: 25px;
-  margin: -350px 50px 0px 0px;
+  margin: -300px 50px 0px 0px;
   padding:50px;
   color:rgba(34, 6, 17, 0.89);
+  height: 500px;
 }
 
 #hobbies{
@@ -242,7 +246,7 @@ body {
 
 .Img {
   text-align: center;
-  margin:45px;
+  margin:150px;
 }
 
 /* BLOG2 CSS */
@@ -265,7 +269,8 @@ body {
 
 .video {
   text-align: center;
-  margin:45px;
+  margin:150px;
+
 }
 
 
@@ -306,4 +311,15 @@ body {
   width:730px;
   height:200px;
 margin: 45px auto;
+}
+
+
+/* Qualifictaion*/
+.table{
+  transition: 0.3s;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  margin:43px 100px -30px 0px;
+  width: 10px;
+  height: 100px;
 }
